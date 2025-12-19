@@ -23,3 +23,28 @@ Quick tip: in VS Code, you can change which format colors are displayed in RGB, 
 - Do the odd numbered `p` elements share a class?
 - Do the even numbered `div` elements have unique IDs?
 - Does the Number 3 element have multiple classes?
+
+
+Seletores de Classe e ID
+Saber como adicionar atributos de classe e ID aos elementos HTML, assim como usar seus respectivos seletores, é inestimável. É importante praticar o uso deles.
+
+Existem vários elementos no arquivo HTML fornecido, aos quais você terá que adicionar atributos de classe ou ID, conforme indicado na imagem de resultado abaixo. Em seguida, você precisará adicionar regras no arquivo CSS fornecido usando a sintaxe de seletor correta. Observe cuidadosamente a imagem de resultado e tente lembrar quais elementos têm aparência semelhante (classes), quais podem ser completamente únicos em relação aos outros (ID) e quais têm pequenas variações em relação aos outros (múltiplas classes).
+
+Não é totalmente importante quais valores de classe ou ID você usa, já que o foco aqui é ser capaz de adicionar os atributos e usar a sintaxe correta do seletor para estilizar elementos. Para as cores neste exercício, tente usar um valor que não seja uma palavra-chave (RGB, HEX ou HSL). As propriedades que você precisa adicionar a cada elemento são:
+* **Todos os elementos de número ímpar**:a light red/pink background,e uma lista de fontes contendo `Verdana` e `DejaVu Sans`, com `sans-serif` como alternativa
+* **O segundo elemento**: texto azul e tamanho de fonte de 36px
+* **O terceiro elemento**: além dos estilos para todos os elementos de número ímpar, adicione um tamanho de fonte de 24px
+* **O quarto elemento**: fundo verde claro, tamanho de fonte de 24px e negrito
+
+Dica rápida: no VS Code, você pode mudar o formato em que as cores são exibidas em RGB, HEX ou HSL passando o mouse sobre o valor da cor no CSS e clicando na parte superior do popup que aparece!
+
+> ### Nota:
+> Parte da sua tarefa é adicionar uma fonte a _alguns_ desses itens. A fonte do seu navegador pode ser diferente da exibida na imagem de resultado desejado. Contanto que você confirme que as fontes _estão_ sendo aplicadas às linhas corretas, qualquer diferença é aceitável para este exercício.
+
+## Resultado Desejado
+![resultado desejado](./desired-outcome.png)
+
+### Autoavaliação
+- Os elementos `p` de números ímpares compartilham uma classe?
+- Os elementos `div` de números pares têm IDs únicos?
+- O elemento Número 3 possui múltiplas classes?

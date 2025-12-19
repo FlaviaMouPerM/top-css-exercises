@@ -22,3 +22,24 @@ The properties you need to add to each element are:
 - Does the `div` element have CSS added via the external method?
 - Does the `p` element have CSS added via the internal method?
 - Does the `button` element have CSS added via the inline method?
+
+Métodos para Adicionar CSS
+Neste exercício, você vai praticar adicionar CSS a um arquivo HTML usando os três métodos: CSS externo, CSS interno e CSS inline. Você deve usar apenas seletores de tipo neste exercício ao adicionar estilos pelos métodos externo e interno. Você também deve usar palavras-chave para cores (por exemplo, "azul") em vez de usar valores RGB ou HEX.
+
+Existem três elementos para você adicionar estilos, cada um utilizando um método diferente de adicionar CSS, conforme mostrado na imagem de resultado abaixo. Todos os outros exercícios desta seção terão um arquivo CSS fornecido e vinculado para você, mas neste exercício você terá que criar o arquivo e vinculá-lo no arquivo HTML sozinho. Isso tudo é sobre praticar o uso desses diferentes métodos e acertar a sintaxe.
+Dica rápida:
+> Não se preocupe com detalhes nesses exercícios que não são especificamente mencionados no exercício ou na seção de autoavaliação. Como os resultados desejados são capturas de tela, seu navegador pode mostrar uma fonte diferente, as cores podem aparecer diferentes na sua máquina, ou o espaçamento entre os elementos pode parecer diferente. Concentre-se apenas nos itens específicos que você deve aprender em cada exercício.
+As propriedades que você precisa adicionar a cada elemento são:
+
+* `div`: um fundo vermelho, texto branco, tamanho da fonte de 32px, alinhamento central e negrito
+* `p`: um fundo verde, texto branco e tamanho da fonte de 18px
+* `button`: um fundo laranja e tamanho da fonte de 18px
+Resultado Desejado
+![resultado desejado](./desired-outcome.png)
+
+### Autoavaliação
+- Você usou todos os três métodos de adicionar CSS a um arquivo HTML?
+- Você vinculou corretamente o arquivo CSS externo no arquivo HTML?
+- O elemento `div` tem CSS adicionado pelo método externo?
+- O elemento `p` tem CSS adicionado pelo método interno?
+- O elemento `button` tem CSS adicionado pelo método inline?

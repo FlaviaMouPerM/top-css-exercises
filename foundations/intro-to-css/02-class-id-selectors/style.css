@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.impar00, .impar01, .impar02 {
+background-color:lightpink;
+font: verdana;
+}
+.impar01{
+    font: sans-serif;
+    font-size: 24px;
+}
+.impar02{
+    font: caption;
+}
+#blablabla{
+    font-size: 36px;
+    color: blue;
+}
+#qualquercoisa{
+    color: green;
+    font-size: 24px;
+    font-weight: bold;
+}
