@@ -1,5 +1,5 @@
 /* Add CSS Styling */
-.impar00, .impar01, .impar02 {
+p{
 background-color:lightpink;
 font: verdana;
 }
