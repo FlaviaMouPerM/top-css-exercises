@@ -10,3 +10,15 @@ All you need to do is center the red div inside the blue container.
 - Is the red div centered?
 - Did you _only_ use flexbox to center it?
 
+# CENTRALIZE ESTA DIV
+Esta é simples, mas é algo que você vai querer fazer SEMPRE. Melhor tirar isso do caminho agora.
+
+Tudo o que você precisa fazer é centralizar a div vermelha dentro do contêiner azul.
+
+## Resultado Desejado
+![resultado](./resultado-desejado.png)
+
+### Autoverificação
+- A div vermelha está centralizada?
+
+- Você usou _apenas_ flexbox para centralizá-la?
